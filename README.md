@@ -1,5 +1,5 @@
 # myrepo
-[![CircleCI](https://circleci.com/gh/noahgift/myrepo.svg?style=svg)](https://circleci.com/gh/noahgift/myrepo)
+[![CircleCI](https://circleci.com/gh/meaghanlewis/myrepo.svg?style=svg)](https://circleci.com/gh/meaghanlewis/myrepo)
 
 This is an example repo of a how to create a Data Science focused Python project.
 There is a screencast on this project setup here:
