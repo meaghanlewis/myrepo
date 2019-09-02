@@ -1,6 +1,9 @@
 # myrepo
 [![CircleCI](https://circleci.com/gh/noahgift/myrepo.svg?style=svg)](https://circleci.com/gh/noahgift/myrepo)
 
+CodeCove badge:
+[![codecov](https://codecov.io/gh/meaghanlewis/myrepo/branch/master/graph/badge.svg)](https://codecov.io/gh/meaghanlewis/myrepo)
+
 This is an example repo of a how to create a Data Science focused Python project.
 There is a screencast on this project setup here:
 
