@@ -1,4 +1,5 @@
 # myrepo
+Circle CI status
 [![CircleCI](https://circleci.com/gh/noahgift/myrepo.svg?style=svg)](https://circleci.com/gh/noahgift/myrepo)
 
 This is an example repo of a how to create a Data Science focused Python project.
